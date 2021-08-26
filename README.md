@@ -2,7 +2,7 @@ A project for my CS16: Introduction to Algorithms and Data Structures class in w
 It employs a dynamic programming algorithm to find vertical seams with the lowest total cost of pixels to remove from the image. Indoing so, more important
 fascets of images are preseved! Code is redacted in accordance with Brown University and CS16 course anti-plagiarism policies.
 
-The method was inspired and by research done by Shai Avidan of Mitsubishi Electric Research Labs, and Ariel Shamir from The Interdisciplinary Center & MERL;
+The method was inspired by research done by Shai Avidan of Mitsubishi Electric Research Labs, and Ariel Shamir from The Interdisciplinary Center & MERL;
 read more about their research here: https://faculty.idc.ac.il/arik/SCWeb/imret/imret.pdf
 
 Here is a demo of the a visualizer showing the original picture, the seams carved, and the outputted image with removed seams:
